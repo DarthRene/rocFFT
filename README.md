@@ -17,7 +17,7 @@ The root of this repository has a helper bash script `install.sh` to build and i
 ## Manual build (all supported platforms)
 If you use a distro other than Ubuntu, or would like more control over the build process, the [rocfft build wiki](https://github.com/ROCmSoftwarePlatform/rocFFT/wiki/Build) has helpful information on how to configure cmake and manually build.
 
-## Library and API Documentation
+### Library and API Documenents
 
 Please refer to the [Library documentation](http://rocfft.readthedocs.io/) for current documentation.
 
